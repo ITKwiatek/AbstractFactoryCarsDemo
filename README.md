@@ -22,11 +22,9 @@ Using Abstract Factory Pattern to Create Volksvagen and Toyota cars
 
 ## Screenshots
 ![uml](./AbstractFactoryCars/doc/uml.png)
-![Build Phases](./doc/1.png)
-![Server Code in UML](./doc/2.png)
-![Request Pipeline](./doc/3.png)
-![Server Code in UML](./doc/4.png)
-![Server Code in UML](./doc/5.png)
+![classes](./AbstractFactoryCars/doc/classes.png)
+![code](./AbstractFactoryCars/doc/code.png)
+![output](./AbstractFactoryCars/doc/output.png)
 
 
 ## Project Status
