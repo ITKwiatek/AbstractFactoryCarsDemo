@@ -21,7 +21,7 @@ Using Abstract Factory Pattern to Create Volksvagen and Toyota cars
 - Recognizes type of car
 
 ## Screenshots
-![uml](./doc/uml.png)
+![uml](./AbstractFactoryCars/doc/uml.png)
 ![Build Phases](./doc/1.png)
 ![Server Code in UML](./doc/2.png)
 ![Request Pipeline](./doc/3.png)
